@@ -1,12 +1,11 @@
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050509,45:1e1b4b,75:312e81,100:0891b2&text=PAULO%20GABRIEL&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Ciberseguranca&descColor=cbd5e1&descAlignY=60"/>
+<img width="100%" src="./matrix-header.svg" alt="Paulo Gabriel — Desenvolvimento de Sistemas | Cibersegurança"/>
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=850&lines=%5BSISTEMA%5D+Inicializando+perfil...;%5BACESSO%5D+Usuario+autenticado.;%5BSTATUS%5D+Aprendendo+%7C+Criando+%7C+Evoluindo;%5BSEGURANCA%5D+Ciberseguranca+carregando...;%3E+Bem-vindo+ao+meu+GitHub_"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=600&color=4ADE80&center=true&vCenter=true&width=850&lines=%5BSISTEMA%5D+Inicializando+perfil...;%5BACESSO%5D+Usuario+autenticado.;%5BSTATUS%5D+Aprendendo+%7C+Criando+%7C+Evoluindo;%5BSEGURANCA%5D+Ciberseguranca+carregando...;%3E+Bem-vindo+ao+meu+GitHub_"
 />
 
 </div>
@@ -203,7 +202,7 @@ LinkedIn   :: Paulo Gabriel Da Silva Lopes
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=850&lines=%3E+Novos+conhecimentos+detectados...;%3E+Construindo+novos+projetos...;%3E+Expandindo+experiencia...;%3E+CONSTRUIR+HOJE.;%3E+PROTEGER+AMANHA._"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=4ADE80&center=true&vCenter=true&width=850&lines=%3E+Novos+conhecimentos+detectados...;%3E+Construindo+novos+projetos...;%3E+Expandindo+experiencia...;%3E+CONSTRUIR+HOJE.;%3E+PROTEGER+AMANHA._"
 />
 
 <br>
@@ -219,7 +218,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,45:312e81,100:050509"/>
+<img width="100%" src="./matrix-footer.svg" alt="Rodapé animado em estilo Matrix"/>
 
 </div>
+
