@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Paulo Gabriel — Desenvolvedor em formação">
+  <title>Paulo Gabriel — Desenvolvedor em formação</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#30363D" stroke-width="1" stroke-opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)" opacity="0.35"/>
+  <circle cx="1160" cy="40" r="220" fill="url(#glow)"/>
+
+  <g fill="none" stroke="#58A6FF" stroke-opacity="0.28" stroke-width="1.5">
+    <polygon points="1215.3,215 1120,270 1024.7,215 1024.7,105 1120,50 1215.3,105"/>
+  </g>
+  <g fill="none" stroke="#58A6FF" stroke-opacity="0.5" stroke-width="1.5">
+    <polygon points="1185.8,198 1120,236 1054.2,198 1054.2,122 1120,84 1185.8,122"/>
+  </g>
+  <g fill="#58A6FF" fill-opacity="0.85">
+    <circle cx="1120" cy="50" r="4.5"/>
+    <circle cx="1120" cy="270" r="4.5"/>
+  </g>
+
+  <rect x="96" y="112" width="4" height="116" rx="2" fill="url(#bar)"/>
+
+  <text x="124" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#F0F6FC" letter-spacing="-1.2">Paulo Gabriel</text>
+  <text x="126" y="194" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="500" fill="#58A6FF" letter-spacing="0.4">Desenvolvedor em formação · Desenvolvimento de Sistemas</text>
+  <text x="126" y="228" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8B949E" letter-spacing="0.2">HTML · CSS · JavaScript · MySQL · Git</text>
+</svg>
