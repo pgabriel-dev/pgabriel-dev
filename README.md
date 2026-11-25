@@ -1,224 +1,59 @@
 <div align="center">
 
-<img width="100%" src="./matrix-header.svg" alt="Paulo Gabriel — Desenvolvimento de Sistemas | Cibersegurança"/>
+<img src="./banner.svg" width="100%" alt="Paulo Gabriel — Desenvolvedor em formação"/>
 
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=600&color=4ADE80&center=true&vCenter=true&width=850&lines=%5BSISTEMA%5D+Inicializando+perfil...;%5BACESSO%5D+Usuario+autenticado.;%5BSTATUS%5D+Aprendendo+%7C+Criando+%7C+Evoluindo;%5BSEGURANCA%5D+Ciberseguranca+carregando...;%3E+Bem-vindo+ao+meu+GitHub_"
-/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_pgxzt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pgabriel-dev)
 
 </div>
 
-<br>
+## Sobre
 
-## `> quem_sou`
+Sou estudante do ensino médio técnico em Desenvolvimento de Sistemas na ETEC Valdivino
+Antonio Marcusso. Uso este GitHub para registrar o que estou construindo: projetos da
+escola, exercícios e experimentos próprios.
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  NOME      :: Paulo Gabriel                               │
-│  PAÍS      :: Brasil                                      │
-│  ESCOLA    :: ETEC Valdivino Antonio Marcusso             │
-│  CURSO     :: Desenvolvimento de Sistemas                 │
-│  FOCO      :: Cibersegurança                              │
-│  STATUS    :: ATIVO                                       │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+Meu foco atual é desenvolvimento web — HTML, CSS, JavaScript e banco de dados — e estou
+começando os estudos em cibersegurança. Prefiro entregar poucos projetos bem documentados
+a muitos repositórios pela metade.
 
-## `> sobre_mim`
+## Stack
 
-```text
-Sou estudante do Ensino Médio Técnico em
-Desenvolvimento de Sistemas.
+**Front-end**
 
-Estou construindo minha base em programação
-através de projetos, estudos e prática.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Atualmente estudo desenvolvimento web,
-lógica de programação, banco de dados,
-Git e GitHub.
+**Banco de dados**
 
-Também estou iniciando meus estudos em
-Cibersegurança.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Objetivo:
+**Ferramentas**
 
-> aprender
-> testar
-> construir
-> melhorar
-> evoluir
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+**Estudando**
 
-## `> tecnologias_carregadas`
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-em_estudo-555555?style=flat-square&logo=hackthebox&logoColor=white)
 
-<div align="center">
+## Projetos
 
-<img
-src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode&theme=dark"
-/>
+**[Relatorio-ACBr](https://github.com/pgabriel-dev/Relatorio-ACBr)**
+Estudo sobre geração de relatórios e automação comercial usando o framework ACBr.
+`ACBr` `Relatórios` `Estudo de caso`
 
-</div>
+## Atualmente
 
-<br>
+- Aprofundando JavaScript e modelagem de banco de dados
+- Construindo projetos práticos para compor portfólio
+- Iniciando os fundamentos de cibersegurança
 
-```text
-pgabriel-dev/
-│
-├── desenvolvimento/
-│   ├── HTML
-│   ├── CSS
-│   └── JavaScript
-│
-├── banco_de_dados/
-│   └── MySQL
-│
-├── ferramentas/
-│   ├── Git
-│   ├── GitHub
-│   └── VS Code
-│
-└── seguranca/
-    └── ciberseguranca...
-```
+## Contato
 
----
-
-## `> foco_atual`
-
-```diff
-+ Desenvolvimento Web
-+ Lógica de Programação
-+ Banco de Dados
-+ Git e GitHub
-+ Projetos práticos
-
-! Cibersegurança em aprendizado
-! Conhecimento em construção
-! Experiência aumentando
-```
-
----
-
-## `> executar perfil.js`
-
-```javascript
-const paulo = {
-
-    formacao: "Desenvolvimento de Sistemas",
-
-    conhecimentos: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "MySQL",
-        "Git",
-        "GitHub"
-    ],
-
-    estudando: [
-        "Desenvolvimento Web",
-        "Banco de Dados",
-        "Cibersegurança"
-    ],
-
-    objetivo: "Transformar conhecimento em experiência",
-
-    futuro: "Trabalhar profissionalmente com tecnologia"
-};
-```
-
----
-
-## `> monitor_do_sistema`
-
-```text
-╔════════════════════════ MONITOR ════════════════════════╗
-║                                                        ║
-║  Desenvolvimento Web ......................... ATIVO   ║
-║  Banco de Dados .............................. ATIVO   ║
-║  GitHub ...................................... ATIVO   ║
-║  Projetos .................................... CRIANDO ║
-║  Cibersegurança .............................. ESTUDO  ║
-║  Experiência ................................. +1      ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> conexoes`
-
-<div align="center">
-
-<a href="https://github.com/pgabriel-dev">
-<img src="https://img.shields.io/badge/GITHUB-07070B?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-<a href="https://instagram.com/_pgxzt">
-<img src="https://img.shields.io/badge/INSTAGRAM-07070B?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/>
-</a>
-
-<a href="COLE_AQUI_O_LINK_DO_SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-07070B?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
-</a>
-
-</div>
-
-<br>
-
-```text
-[VARREDURA]
-
-GitHub     :: pgabriel-dev
-Instagram  :: @_pgxzt
-LinkedIn   :: Paulo Gabriel Da Silva Lopes
-
-[STATUS] conexões localizadas.
-```
-
----
-
-## `> registro_do_sistema`
-
-```log
-[21:04:01] [INÍCIO] Perfil carregado
-[21:04:02] [ OK ] Ambiente de desenvolvimento iniciado
-[21:04:03] [ OK ] GitHub conectado
-[21:04:04] [ OK ] Tecnologias carregadas
-[21:04:05] [INFO] Modo de aprendizado ativado
-[21:04:06] [INFO] Projetos em construção
-[21:04:07] [ >> ] Cibersegurança carregando...
-[21:04:08] [ >> ] Novos conhecimentos detectados...
-[21:04:09] [SISTEMA] Continue evoluindo_
-```
-
----
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=4ADE80&center=true&vCenter=true&width=850&lines=%3E+Novos+conhecimentos+detectados...;%3E+Construindo+novos+projetos...;%3E+Expandindo+experiencia...;%3E+CONSTRUIR+HOJE.;%3E+PROTEGER+AMANHA._"
-/>
-
-<br>
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                    CONSTRUIR HOJE                          ║
-║                    PROTEGER AMANHÃ                         ║
-║                                                            ║
-║                      SISTEMA ATIVO                         ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<img width="100%" src="./matrix-footer.svg" alt="Rodapé animado em estilo Matrix"/>
-
-</div>
-
+- LinkedIn — [Paulo Gabriel](https://www.linkedin.com/in/SEU-PERFIL)
+- E-mail — seu.email@exemplo.com
+- Instagram — [@_pgxzt](https://instagram.com/_pgxzt)
